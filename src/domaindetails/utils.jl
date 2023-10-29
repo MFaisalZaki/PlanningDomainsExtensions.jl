@@ -1,7 +1,7 @@
 
 function generatereouscesdetails(arg, max, min, delta)
     resources = Dict{String, Dict{String, Float64}}()
-    for i in 1:10
+    for i in 0:10
         resources[string(arg, i)] = Dict()
         resources[string(arg, i)]["max"]   = max
         resources[string(arg, i)]["min"]   = min
