@@ -1,5 +1,6 @@
 module PlanningDomainsExtensions
 
+using Julog
 using PDDL
 
 include("domaindetails/utils.jl")
