@@ -1,0 +1,8 @@
+name = "PlanningDomainsExtensions"
+uuid = "227b01da-54ee-4b11-b247-c104209ed78d"
+authors = ["mustafafaisal "]
+version = "0.1.0"
+
+[deps]
+Julog = "5d8bcb5e-2b2c-4a96-a2b1-d40b3d3c344f"
+PDDL = "2c8894f9-daa1-498a-9e3a-26edd9623db8"
